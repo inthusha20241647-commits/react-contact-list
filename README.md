@@ -29,7 +29,7 @@ The objective of this exercise was to understand how **props can be used to pass
 ## 📸 Preview
 
 <p align="center">
-  <img src="./images/contact-list.png" alt="React Contact List" width="800">
+  <img src="./src/images/contact-list.png" alt="React Contact List" width="800">
 </p>
 
 ## 🌐 Live Demo
