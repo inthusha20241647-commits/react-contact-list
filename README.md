@@ -26,6 +26,14 @@ This exercise focuses on practicing **reusable components, props, array mapping,
 
 The objective of this exercise was to understand how **props can be used to pass contact information to a reusable React component** and how the JavaScript `map()` method can be used to dynamically render multiple contacts from an array.
 
+## 📸 Preview
+
+![React Contact List Preview](.images/contact-list.png)
+
+## 🌐 Live Demo
+
+🔗 [View Live Demo](https://react-contact-list-neon.vercel.app/)
+
 ## 🚀 Getting Started
 
 Clone the repository:
