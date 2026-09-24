@@ -28,7 +28,7 @@ The objective of this exercise was to understand how **props can be used to pass
 
 ## 📸 Preview
 
-./images/contact-list.png
+(./images/contact-list.png)
 
 ## 🌐 Live Demo
 
