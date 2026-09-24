@@ -28,7 +28,9 @@ The objective of this exercise was to understand how **props can be used to pass
 
 ## 📸 Preview
 
-![React Contact List](./src/images/contact-list.png)
+<p align="center">
+  <img src="./images/contact-list.png" alt="React Contact List" width="800">
+</p>
 
 ## 🌐 Live Demo
 
