@@ -11,7 +11,7 @@ This project focuses on practising functional components, props, reusable compon
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="./images/contact-list.png" alt="React Contact List Preview" width="800">
+  <img src="./contact-list.png" alt="React Contact List Preview" width="800">
 </p>
 
 ## ✨ Features
