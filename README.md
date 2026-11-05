@@ -1,81 +1,76 @@
-# 📱 React Contact List Exercise
+# 📱 React Contact List
 
-A simple **React.js exercise** created as part of my React learning journey.
+A simple React contact list application created as part of my React learning journey.
 
-This exercise focuses on practicing **reusable components, props, array mapping, JSX, and basic CSS styling** by creating a simple contact list interface.
-
-## 🛠️ Technologies
-
-* ⚛️ React.js
-* 🟨 JavaScript
-* 🎨 CSS
-* 🧩 JSX
-* ▲ Vercel
-
-## 📚 Concepts Practiced
-
-* ⚛️ React Functional Components
-* 📦 Props
-* 🔄 JavaScript `map()`
-* 🧩 Reusable Components
-* 🖼️ Importing Images
-* 📝 JSX
-* 🎨 CSS Styling
-
-## 🎯 Exercise Objective
-
-The objective of this exercise was to understand how **props can be used to pass contact information to a reusable React component** and how the JavaScript `map()` method can be used to dynamically render multiple contacts from an array.
-
-## 📸 Preview
-
-<p align="center">
-  <img src="./src/images/contact-list.png" alt="React Contact List" width="800">
-</p>
+This project focuses on practising functional components, props, reusable components, JSX, and dynamic rendering using the JavaScript `map()` method.
 
 ## 🌐 Live Demo
 
-🔗 [View Live Demo](https://react-contact-list-neon.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=github)](https://react-contact-list-neon.vercel.app/)
 
-## 🚀 Getting Started
+## 📸 Screenshot
 
-Clone the repository:
+<p align="center">
+  <img src="./screenshot.png" alt="React Contact List Preview" width="800">
+</p>
 
-```bash
-git clone https://github.com/your-username/react-contact-list-exercise.git
-```
+## ✨ Features
 
-Navigate to the project:
+- 👥 **Contact List:** Displays multiple contacts in an organised layout.
+- 🧩 **Reusable Components:** Uses reusable React components to display contact information.
+- 📦 **Props:** Passes contact details from parent components to child components.
+- 🔄 **Dynamic Rendering:** Uses JavaScript `map()` to render contacts from an array.
+- 🎨 **CSS Styling:** Provides a styled contact list interface.
 
-```bash
-cd react-contact-list-exercise
-```
+## ⚛️ Concepts Practiced
 
-Install dependencies:
+- ⚛️ React Functional Components
+- 📦 Props
+- 🧩 Component Reusability
+- 🔄 JavaScript `map()` Method
+- 📝 JSX
+- 🖼️ Importing Images into React
+- 🎨 CSS Styling
 
-```bash
-npm install
-```
+## 🛠️ Technologies Used
 
-Start the development server:
+- React.js
+- JavaScript
+- JSX
+- CSS
 
-```bash
-npm start
-```
+## 🚀 Run Locally
 
-## 📂 Project Structure
+1. Clone the repository:
 
-```text
-react-contact-list-exercise/
-├── public/
-├── src/
-│   ├── images/
-│   ├── App.js
-│   ├── style.css
-│   └── index.js
-├── package.json
-└── README.md
-```
+   ```bash
+   git clone https://github.com/inthusha20241647-commits/react-contact-list.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd react-contact-list
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+5. Open your browser at `http://localhost:3000`.
+
+## 🎯 Learning Objective
+
+The main objective of this exercise was to understand how props pass data between React components and how the JavaScript `map()` method dynamically renders multiple contact items from an array.
 
 ---
 
-⭐ **A React.js exercise created to strengthen my understanding of components, props, and dynamic rendering.**
+*This project is part of my continuous learning journey in React and frontend development.*
